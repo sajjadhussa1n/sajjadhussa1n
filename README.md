@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋 I am Sajjad
+Hello, and welcome to my profile. 
 
-<!--
-**sajjadhussa1n/sajjadhussa1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I'm a PhD in Electrical Engineering with a passion for wireless communications.
 
-Here are some ideas to get you started:
+* My research interests are in the areas of radio propagation modeling in urban and vehicular channels, and exploring the use of machine learning techniques in radio channel modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I have authored and co-authored several articles that have been published in journals and conferences of repute, and I'm excited to continue sharing my work on this platform. See my [Google Scholar Profile](https://scholar.google.com.pk/citations?hl=en&user=8cOJ43oAAAAJ)
+
+### 👯 I'm new to Github and eager to collaborate and learn from the Github community.
+
+### 🌱 On my Github repositories, I will be posting my work on machine learning models, which I believe will be useful for researchers and engineers working in the field of wireless communications. 
+
+### 💬 I'm open to feedback and suggestions, and I'm looking forward to building a community around this exciting field.
