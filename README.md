@@ -2,9 +2,9 @@
 
 Hello, and welcome to my profile. 
 
-## I'm a PhD in Electrical Engineering with a passion for wireless communications.
+## I'm a PhD in Electrical Engineering with a passion for AI in wireless communications.
 
-* My research interests are in the area of radio propagation modeling in urban and vehicular channels. My research also involves exploring the use of machine learning techniques in radio channel modeling.
+* My research interests are in the area of radio propagation modeling in urban and vehicular channels. My research also involves exploring the use of machine learning and deep learning  techniques in radio channel modeling.
 
 * I have authored and co-authored several articles that have been published in journals and conferences of repute, and I'm excited to continue sharing my work on this platform. See my [Google Scholar Profile](https://scholar.google.com/citations?user=WPmIWr0AAAAJ&hl=en)
 
